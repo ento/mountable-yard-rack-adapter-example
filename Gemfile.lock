@@ -1,0 +1,21 @@
+GIT
+  remote: git://github.com/ento/yard.git
+  revision: 09bb984f7a6eeb8b76f7f25e97bf7b8991c7f721
+  branch: mountable-rack-adapter
+  specs:
+    yard (0.8.7.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack
+  yard!
+
+BUNDLED WITH
+   1.10.6
